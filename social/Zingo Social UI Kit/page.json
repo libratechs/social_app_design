@@ -1,0 +1,190 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C3B9347-8B14-4848-8672-5330ABA3C751",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "E3494ADC-674C-4693-820E-93D4BD10E9B5"
+    },
+    {
+      "class": "artboard",
+      "id": "8DE56590-086E-48AA-931F-44E1DB315C83"
+    },
+    {
+      "class": "artboard",
+      "id": "07CEA5C8-4D6E-468E-A1A8-A58CAA7C2A4B"
+    },
+    {
+      "class": "artboard",
+      "id": "3757170A-B803-47BE-A94A-EA0DB5C5747C"
+    },
+    {
+      "class": "artboard",
+      "id": "B3964492-7D2F-47AA-AE80-6C707FC22F58"
+    },
+    {
+      "class": "artboard",
+      "id": "D6B6CC7F-CDD3-4705-A07F-2158C22380F4"
+    },
+    {
+      "class": "artboard",
+      "id": "1C3228CD-B180-4F25-B546-3D5A8A50A6B2"
+    },
+    {
+      "class": "artboard",
+      "id": "88BB8278-3A14-4F74-841B-AA1B7757C84B"
+    },
+    {
+      "class": "artboard",
+      "id": "6E733559-1CA6-456C-A8F5-98656CB14054"
+    },
+    {
+      "class": "artboard",
+      "id": "B30835D8-2FAD-4B22-B21D-9C4B9C6580C3"
+    },
+    {
+      "class": "artboard",
+      "id": "3147BB5F-2B04-49DB-8085-302F73BB04D6"
+    },
+    {
+      "class": "artboard",
+      "id": "1C68025A-7243-447C-8325-392F23A2EAAA"
+    },
+    {
+      "class": "artboard",
+      "id": "06FE8656-F8A9-4FA7-A2CB-C4A6FE269A8F"
+    },
+    {
+      "class": "artboard",
+      "id": "204C90CF-10AA-4070-BBC1-6DE7AA6C4227"
+    },
+    {
+      "class": "artboard",
+      "id": "6BAC936F-3677-4916-9E7E-4E11FCC4B327"
+    },
+    {
+      "class": "artboard",
+      "id": "A8ADCF7A-4399-448F-9291-5D448BA15D94"
+    },
+    {
+      "class": "artboard",
+      "id": "05C1A410-8767-41FD-B711-6B7D45984ABD"
+    },
+    {
+      "class": "artboard",
+      "id": "16491420-5140-4D22-A208-2B172047D9ED"
+    },
+    {
+      "class": "artboard",
+      "id": "5E17F07C-C12F-4DB7-ABF0-C78938153BA9"
+    },
+    {
+      "class": "artboard",
+      "id": "A5F374EF-A2D0-480A-9B2C-BC272C3F49C6"
+    },
+    {
+      "class": "artboard",
+      "id": "4BB8A9CC-C521-4329-BB0E-7D8A66A04772"
+    },
+    {
+      "class": "artboard",
+      "id": "6C09801F-45B0-434A-A936-E9CA91E72D61"
+    },
+    {
+      "class": "artboard",
+      "id": "EC771D94-9757-4596-AEC9-4FB9F67D8FE5"
+    },
+    {
+      "class": "artboard",
+      "id": "58F4EE43-6EE5-4FC2-9F00-9CDDFCD73B39"
+    },
+    {
+      "class": "artboard",
+      "id": "924DEE16-98FB-4D76-B21E-CF1BE4B71636"
+    },
+    {
+      "class": "artboard",
+      "id": "BD6E1803-1776-49B6-951D-22AFA1EDBFEC"
+    },
+    {
+      "class": "artboard",
+      "id": "A04B850D-3E8F-4101-8F6F-015D82A291AC"
+    },
+    {
+      "class": "artboard",
+      "id": "3740C53B-C046-42DB-A093-658C5AB28E5A"
+    },
+    {
+      "class": "artboard",
+      "id": "FCFAB124-07E8-41DF-8044-28F8B1C31F4C"
+    },
+    {
+      "class": "artboard",
+      "id": "2563551A-4F6A-4E7A-B66A-B2469B111BAE"
+    },
+    {
+      "class": "artboard",
+      "id": "206B0990-581D-4BF3-8678-E725AD3B3C1A"
+    },
+    {
+      "class": "artboard",
+      "id": "4B9FBB9F-B6CB-42B6-A755-D6A48AD3DCE7"
+    }
+  ],
+  "name": "Zingo Social UI Kit",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

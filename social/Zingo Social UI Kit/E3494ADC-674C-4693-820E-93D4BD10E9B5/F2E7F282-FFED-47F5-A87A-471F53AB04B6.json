@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F2E7F282-FFED-47F5-A87A-471F53AB04B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2365362A-39CB-4751-B438-7ABEBF60460F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B15DA6A-088E-4F60-AED2-C09831B625DE",
+    "height": 28,
+    "width": 28,
+    "x": 215,
+    "y": 730
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_Icons / facebook Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DF0892F6-EECD-476F-8552-55135AC26CBE",
+      "overrideName": "7ACF9869-0BD9-4A2E-A7D3-625122A77766_layerStyle",
+      "value": "307B1335-E31B-4FD6-871F-57B4DEE1CAE6"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5E579D1B-0091-4853-9940-F067A0D92817",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A9C39B97-60F3-4F60-99E6-8023F12B09D8",
+  "verticalSpacing": 0
+}

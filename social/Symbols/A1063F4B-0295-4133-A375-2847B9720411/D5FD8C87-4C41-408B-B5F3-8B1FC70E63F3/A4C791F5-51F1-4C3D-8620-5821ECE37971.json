@@ -1,0 +1,82 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A4C791F5-51F1-4C3D-8620-5821ECE37971",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0C1EC367-C4C8-46B1-BE63-4C5B3C423680",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "14E608DA-3A00-4CFB-95D6-EF46188063D1",
+    "height": 49,
+    "width": 75,
+    "x": 150,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Tab One Copy 2",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A3BDE2D8-7D2D-49A2-9622-A80536F31B34",
+      "overrideName": "E715BCAB-0BC0-487D-8DDF-182A016B72C2_symbolID",
+      "value": "1E4BB158-A81D-4547-A184-9BDF21CD4D23"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F2169C85-0F9A-4276-9C07-8F6262B36481",
+      "overrideName": "027DCA64-F0F4-4BA8-AFC6-2CE24C9BD63B_stringValue",
+      "value": "Messages"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "76DF37B2-CE39-4D59-8CF6-BDB1215FEF8A",
+      "overrideName": "E715BCAB-0BC0-487D-8DDF-182A016B72C2/C75C46B2-736A-4814-AC93-586B8262D222_layerStyle",
+      "value": "087FF409-9AD8-4F80-AD93-6DE4D3C2CAD3"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "8BFF64FE-3C68-4AED-9A59-72D890290B35",
+      "overrideName": "D7AF5FD2-4B84-4F33-8C46-F99BB8747BFF_symbolID",
+      "value": "1E4BB158-A81D-4547-A184-9BDF21CD4D23"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9C7511FB-407A-4930-8A6A-55E6A2C267CA",
+      "overrideName": "D7AF5FD2-4B84-4F33-8C46-F99BB8747BFF/C75C46B2-736A-4814-AC93-586B8262D222_layerStyle",
+      "value": "087FF409-9AD8-4F80-AD93-6DE4D3C2CAD3"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA240488-93B6-4660-8263-EA4126780435",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "05B9079C-A3D0-4E1C-BC4D-B250792F4886",
+  "verticalSpacing": 0
+}

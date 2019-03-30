@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C99D11C4-2514-4BE7-91BC-BBD05BB4F71E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5527712C-A823-44C9-8EAE-9FE571A9AE38",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "917818DD-0AE8-443A-B586-590E45D96DDD",
+    "height": 36,
+    "width": 110,
+    "x": 157,
+    "y": 150
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "88F5F2DB-195B-4DC6-AC04-46C30E642D4F"
+    },
+    {
+      "class": "text",
+      "id": "A23B4586-D553-4937-92A8-2C0E4CBD01FC"
+    }
+  ],
+  "name": "Avatar Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D72B055E-A01A-4D20-8740-EED677581754",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

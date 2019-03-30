@@ -1,0 +1,106 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.5803921569,
+    "do_objectID": "7AA1BF1E-91F4-4CBA-B831-F48A9A83F160",
+    "green": 0.5568627451,
+    "red": 0.5607843137
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4836,
+  "clippingMaskMode": 0,
+  "do_objectID": "8C37FBD5-A124-4CB5-B195-181594689686",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "960ECE23-7462-4E0C-ABB8-96293236802E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2595C42-E25D-46EB-9CA8-C7ED9A8609A4",
+    "height": 34,
+    "width": 375,
+    "x": -376,
+    "y": 334
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EE0A5CA1-5869-42EC-8779-F2689F41D0C5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": false,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AC4436F5-4B76-41A6-898F-EC6F5B25CF9D"
+    }
+  ],
+  "name": "Bars / Home Indicator / White",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B75CF54E-3A61-4DD8-8DEE-BBB2A7201AAD",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D65F8292-9952-4DD1-A05D-9DB6D231BD96",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "CCF15B52-7C14-4C37-A7C9-0913B2AB96DD",
+    "guides": [
+    ]
+  }
+}

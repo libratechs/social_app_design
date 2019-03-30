@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2D8290B8-D290-4243-987E-2DF922B0231A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "66A9D52D-D36D-41F0-9F3A-B816A4D1E9DD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9938E872-AF74-4558-AB41-33C2DFDB5E10",
+    "height": 596,
+    "width": 360,
+    "x": 15,
+    "y": 435
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "56E3FCB1-1602-48ED-AC0A-5B43F7206E06"
+    },
+    {
+      "class": "group",
+      "id": "34CAA35F-1380-41D4-BB31-60759B341B87"
+    },
+    {
+      "class": "group",
+      "id": "E42E0DDC-F80F-4CC7-9A90-9C4E9B37CC55"
+    },
+    {
+      "class": "group",
+      "id": "ECF229CE-0FBC-4821-845A-6BAC0E2A1EB7"
+    },
+    {
+      "class": "group",
+      "id": "2B0785A1-7798-4FF5-87D1-2E138B8BD659"
+    },
+    {
+      "class": "group",
+      "id": "234AAF81-0DD6-4C4D-8E2D-1946CDF51B3F"
+    },
+    {
+      "class": "group",
+      "id": "955471C5-7668-4416-AE81-18FF4FBBC347"
+    },
+    {
+      "class": "group",
+      "id": "FDC971EC-F1DE-42B0-8DFA-E772E8D2FE30"
+    },
+    {
+      "class": "group",
+      "id": "5CE5037B-36E7-4C20-ADCB-B82D771FB6E6"
+    },
+    {
+      "class": "group",
+      "id": "B8185D52-EE02-422B-9B7D-D705AB5F4FF0"
+    },
+    {
+      "class": "group",
+      "id": "E7AD2249-D447-4C06-99F8-EC800E72A9C2"
+    },
+    {
+      "class": "group",
+      "id": "BEA4C6FE-DB0C-4A55-B916-03449F916BE2"
+    },
+    {
+      "class": "text",
+      "id": "1087FF9F-0102-459F-84E2-325D967F8406"
+    },
+    {
+      "class": "text",
+      "id": "87123673-3AF4-4169-A6AC-4EEC3D739489"
+    }
+  ],
+  "name": "Friends",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06EC7860-E014-44CE-B113-A363670B9892",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "00EAECDB-59B6-457B-A609-37B3C1C7135D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "52C6ECAB-E12F-4109-B0B8-11DC80C6CAAD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5FC1C4C8-1301-454D-8212-545045AB80F5",
+    "height": 531,
+    "width": 345,
+    "x": 15,
+    "y": 379
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9B12BAF6-9002-481C-BCFC-03EED1EF7CF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A8831326-AF09-45A1-9E34-BE690B2EB90F"
+    },
+    {
+      "class": "rectangle",
+      "id": "DDF16E45-5968-47AE-8881-0D96AA797A98"
+    },
+    {
+      "class": "group",
+      "id": "0297EC34-E7EC-45C6-9E3B-7C2B970ED6B5"
+    },
+    {
+      "class": "text",
+      "id": "A9D8B0E2-F7B3-4306-856C-836B494CFF2C"
+    },
+    {
+      "class": "text",
+      "id": "6E398AD9-C895-432D-9E15-254283F1551A"
+    },
+    {
+      "class": "text",
+      "id": "CF09B14A-9011-4965-A1B8-EE6E93C6FD6C"
+    },
+    {
+      "class": "group",
+      "id": "91035978-A9C6-4D8F-9CE8-BFB404DF7555"
+    },
+    {
+      "class": "text",
+      "id": "981F50F3-9243-4A3E-B8C7-360D6027AEE0"
+    },
+    {
+      "class": "oval",
+      "id": "9E000ED8-0B69-4FAE-8A9D-CF2ED6B65785"
+    }
+  ],
+  "name": "Post 03",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06EC5943-CF94-4206-81EF-76DEEED65EB9",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

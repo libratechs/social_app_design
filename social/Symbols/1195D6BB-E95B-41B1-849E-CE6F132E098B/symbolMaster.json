@@ -1,0 +1,88 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FE26B0AC-0D2C-4A14-BD6B-384F0114F884",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4228,
+  "clippingMaskMode": 0,
+  "do_objectID": "1195D6BB-E95B-41B1-849E-CE6F132E098B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3A9EB6D0-CC70-4F8A-A6E1-A536685E416F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9282390F-AEBA-45A6-9638-1276D20AA813",
+    "height": 1,
+    "width": 375,
+    "x": -376,
+    "y": 1425
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D4ADBCE9-DAB2-440F-9DF2-B44CB46ADEC5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4F0051D1-B233-4BBD-9985-F168FDB705C7"
+    }
+  ],
+  "name": " Divider / 16pt 0pt",
+  "nameIsFixed": true,
+  "overrideProperties": [
+  ],
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3EC6CFDD-838C-43FC-A5F6-25BDA9C2BCF8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AEDED3C9-85E3-472D-9188-6BC5D9DCEE6A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A0D1B1FB-B8BC-420D-83CD-2E7939DB8142",
+    "guides": [
+    ]
+  }
+}

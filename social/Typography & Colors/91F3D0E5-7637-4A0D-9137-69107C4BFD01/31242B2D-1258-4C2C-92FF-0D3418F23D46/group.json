@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "31242B2D-1258-4C2C-92FF-0D3418F23D46",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BEC4A44A-086F-4115-A01B-F1CC95625753",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BA1A44E2-B98D-4DA4-92F2-A9B2E28A914A",
+    "height": 1116,
+    "width": 140,
+    "x": 893,
+    "y": 262
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EA97B0EF-1F9D-4CF2-97D4-C9FA5BF46609"
+    },
+    {
+      "class": "rectangle",
+      "id": "09588836-36F4-477D-BAA2-1F43FB431A44"
+    },
+    {
+      "class": "rectangle",
+      "id": "2359F899-71FE-4E1B-83EF-4F709EEA73E4"
+    },
+    {
+      "class": "rectangle",
+      "id": "7E7AD7AA-B651-4618-8622-77D38CA2955A"
+    },
+    {
+      "class": "rectangle",
+      "id": "BED90F88-E2EB-4081-B2B4-DCD3AE065228"
+    },
+    {
+      "class": "rectangle",
+      "id": "84E353CB-EC93-45F8-9099-C5D4A9896E6A"
+    },
+    {
+      "class": "rectangle",
+      "id": "2694D9FA-FBAD-4B5D-B852-98B36944DF09"
+    },
+    {
+      "class": "text",
+      "id": "76E4C008-A68B-4ED0-AEEE-7E73B952418F"
+    },
+    {
+      "class": "text",
+      "id": "398E0A43-A3D5-440E-8F18-19F8C1873AD4"
+    },
+    {
+      "class": "text",
+      "id": "832A2CE2-4136-4FA5-B1C9-657CDBA8B4F1"
+    },
+    {
+      "class": "text",
+      "id": "B4EFD9A6-8F91-4DFD-8F19-50E77BF609C2"
+    },
+    {
+      "class": "text",
+      "id": "89F0101A-5862-4BBA-A208-D4AB0C26969D"
+    },
+    {
+      "class": "text",
+      "id": "81433807-597E-4296-B623-0534E4853693"
+    },
+    {
+      "class": "text",
+      "id": "570206F4-A8E0-4CA9-B90E-33FC062C147E"
+    }
+  ],
+  "name": "Backgrounds",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08170B99-6779-450B-91D3-11D1F5AD35D7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

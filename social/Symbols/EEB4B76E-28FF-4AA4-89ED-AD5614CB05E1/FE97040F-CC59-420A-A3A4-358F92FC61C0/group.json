@@ -1,0 +1,60 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE97040F-CC59-420A-A3A4-358F92FC61C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E08ABD90-5328-47F0-9C48-D27597B75422",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1171E6C-8B23-4518-BEDC-B01D09C1E98B",
+    "height": 44,
+    "width": 233,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "BE545059-4B92-4DD5-A413-000AC2115B1C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6B5C993F-8A9E-4BF0-9229-DDD759DF91C0"
+    }
+  ],
+  "name": "Button_shopping",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "010690F5-2665-4AB5-B34E-7403E74E88C2",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

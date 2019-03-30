@@ -1,0 +1,92 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2DC7974-B824-4294-8691-E8C54D8BC56D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "37BB3DE7-2F28-41EA-A323-37BCA71408C1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9792C6D0-C517-4206-BA3B-34912F6E310E",
+    "height": 356,
+    "width": 170,
+    "x": 178,
+    "y": 267
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "9449A2CB-2E63-43F6-A801-C956672411CF"
+    },
+    {
+      "class": "rectangle",
+      "id": "086E0E17-3C34-47EA-801D-6819DFC22914"
+    },
+    {
+      "class": "rectangle",
+      "id": "EB3E2026-168B-4E4A-9024-6F90DD39E5BD"
+    },
+    {
+      "class": "group",
+      "id": "E33BC44A-AC7F-452A-993F-1D57660C8701"
+    },
+    {
+      "class": "text",
+      "id": "EC2B2D38-25A3-44EE-A7B3-01653F1D8255"
+    },
+    {
+      "class": "text",
+      "id": "7879C579-7C40-4A0F-AAC0-C20E65566697"
+    },
+    {
+      "class": "text",
+      "id": "763F0E66-DD84-4215-BC86-BE94296C1566"
+    },
+    {
+      "class": "text",
+      "id": "CFDBD722-1AAA-4B84-9A3C-285EC903FDDD"
+    },
+    {
+      "class": "oval",
+      "id": "898FE5D3-BBDE-4384-80DD-3A9289820E1F"
+    },
+    {
+      "class": "group",
+      "id": "7663CB51-FAF4-4E70-ABEE-0B43560F6D53"
+    }
+  ],
+  "name": "Post 04",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDBCCD54-620A-494A-BD97-45E317C65502",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

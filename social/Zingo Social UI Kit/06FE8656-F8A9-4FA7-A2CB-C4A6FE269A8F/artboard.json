@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "40708AC9-03D0-4578-95F0-BD0D5E48AFBE",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "06FE8656-F8A9-4FA7-A2CB-C4A6FE269A8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4075509A-73DA-44CC-99F9-A9D506B2F138",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2065D6AC-9538-4474-AD55-22E5C3F9B39E",
+    "height": 812,
+    "width": 375,
+    "x": 486,
+    "y": -74
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C255EC1F-B7DA-4E20-87EE-A6EF5C3C83FA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "D4417578-7459-4BC8-AEAE-B487353D29B2"
+    },
+    {
+      "class": "group",
+      "id": "6E8E4404-51D1-4A4C-9B0E-8F7D8ED1FE2D"
+    },
+    {
+      "class": "group",
+      "id": "07884655-FEF9-4DB0-A987-F542870BF1B6"
+    },
+    {
+      "class": "group",
+      "id": "3621F67C-BF67-4B64-8AD4-D9EEA1399160"
+    },
+    {
+      "class": "text",
+      "id": "B2EDFA42-73E2-4CE1-AEDE-CD2EAA8564B4"
+    },
+    {
+      "class": "group",
+      "id": "6797C663-F779-4236-B034-B3D4943C4D04"
+    },
+    {
+      "class": "group",
+      "id": "D85EE8C6-78D4-4F48-A178-ABF377CB75A9"
+    },
+    {
+      "class": "group",
+      "id": "C5E42272-5868-4B6D-AD2B-0301CEBA2C17"
+    },
+    {
+      "class": "group",
+      "id": "41769BBF-9751-428C-94CB-85229307329C"
+    },
+    {
+      "class": "group",
+      "id": "17E2295D-18FD-49D9-AA62-BF8A118E7C1D"
+    },
+    {
+      "class": "group",
+      "id": "416D46DB-2E02-4EEB-83C4-464F50968B58"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "CD02E889-2EC3-44A4-9435-E1196A4F9FE4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5D2BC325-BB1A-45BE-B18E-6B7DE944DB93"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 30,
+    "do_objectID": "D2A5DF9C-993D-4689-A444-9B51446651C5",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": false,
+    "horizontalOffset": 15,
+    "isEnabled": false,
+    "numberOfColumns": 10,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 345
+  },
+  "name": "12_Home 6",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "96736597-DA78-418B-929A-8CDDE3DB9A71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D55E795-27D4-4936-91B9-0B63F5BB0D89",
+    "guides": [
+    ]
+  }
+}

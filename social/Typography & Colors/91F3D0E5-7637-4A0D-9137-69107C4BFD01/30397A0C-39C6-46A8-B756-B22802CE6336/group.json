@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "30397A0C-39C6-46A8-B756-B22802CE6336",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8DD0D612-70C2-43BD-85B9-C6CF2A8E139F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1DECD090-C438-45D7-9479-41733016A34F",
+    "height": 1100,
+    "width": 140,
+    "x": 165,
+    "y": 262
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "4DC19FE7-DBDC-4F44-AB33-A9DD93BD2D05"
+    },
+    {
+      "class": "rectangle",
+      "id": "D896DA54-FE98-4249-B6C2-EF52B70AB8B8"
+    },
+    {
+      "class": "rectangle",
+      "id": "1B61DA5B-0B28-4E58-87D8-A1B23133F225"
+    },
+    {
+      "class": "rectangle",
+      "id": "5D6EB0DA-57A5-4503-AB64-1CAD5D918D01"
+    },
+    {
+      "class": "rectangle",
+      "id": "46A633D5-B578-486C-8F05-AC33D23B2CD7"
+    },
+    {
+      "class": "rectangle",
+      "id": "298F34EE-C2C5-4A8A-B1D9-1934FF54F247"
+    },
+    {
+      "class": "rectangle",
+      "id": "EF2F9DC3-D29B-4B89-9BBE-29E84E4DF2A1"
+    },
+    {
+      "class": "text",
+      "id": "09487335-7B97-441E-846B-3821898ACAD5"
+    },
+    {
+      "class": "text",
+      "id": "2BFF0675-19F5-4033-9099-8DDE94EC75BA"
+    },
+    {
+      "class": "text",
+      "id": "B483738F-471D-4166-9B02-CE836E322E04"
+    },
+    {
+      "class": "text",
+      "id": "50AA8ECE-E853-426A-8E6E-7EF937FA03FD"
+    },
+    {
+      "class": "text",
+      "id": "F3ABE217-0614-4AB9-88A6-BC47D93307EF"
+    },
+    {
+      "class": "text",
+      "id": "A4B5BD11-4EBE-4757-AEF7-E441202C08F8"
+    },
+    {
+      "class": "text",
+      "id": "8D80E476-6E94-4A61-8740-E741B33AE5DC"
+    }
+  ],
+  "name": "Accent",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "95377A78-8EA8-40FE-8C6E-97BC23C95CB6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

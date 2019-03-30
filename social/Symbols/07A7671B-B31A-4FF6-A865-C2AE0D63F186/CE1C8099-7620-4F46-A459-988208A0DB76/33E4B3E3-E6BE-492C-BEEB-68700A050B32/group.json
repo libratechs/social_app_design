@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "33E4B3E3-E6BE-492C-BEEB-68700A050B32",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "20D039DA-5784-4459-8264-110DDCF2EDC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F478B11-7FE2-4D8C-848D-0E64E4FF9DE0",
+    "height": 42,
+    "width": 333,
+    "x": 21,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "7A270217-3493-427D-B3DA-1C57AAC58843"
+    },
+    {
+      "class": "group",
+      "id": "24E04861-FBA3-479E-8F2F-8D95FF5FFB60"
+    },
+    {
+      "class": "group",
+      "id": "DEA3359A-3FA8-478D-BBE9-9BF76E413631"
+    },
+    {
+      "class": "group",
+      "id": "49930A0A-9979-487E-B090-0B1FF1018EC3"
+    },
+    {
+      "class": "group",
+      "id": "12834C92-FE7B-4EEB-8ACA-FE0D534C440B"
+    },
+    {
+      "class": "group",
+      "id": "4CC430FD-DACF-4776-AB54-72D8BDD410BB"
+    },
+    {
+      "class": "group",
+      "id": "BD5896FA-E68B-4A67-A32F-E5C523B5CEA7"
+    },
+    {
+      "class": "group",
+      "id": "D21C76BD-59A5-4D13-983D-E66FB75EC83E"
+    },
+    {
+      "class": "group",
+      "id": "A4F89A8B-2B7A-4A09-92C0-F0453F926434"
+    }
+  ],
+  "name": "Second Row",
+  "nameIsFixed": false,
+  "originalObjectID": "59D27968-E68B-48EF-9EEC-C1375219893F",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A084B75A-F9C5-4296-A031-C6FC1528EDCD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
