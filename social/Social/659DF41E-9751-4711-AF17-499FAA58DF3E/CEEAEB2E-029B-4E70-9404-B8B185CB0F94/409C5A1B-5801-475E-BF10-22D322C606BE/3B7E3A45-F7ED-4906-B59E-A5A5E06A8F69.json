@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "3B7E3A45-F7ED-4906-B59E-A5A5E06A8F69",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EDE216D7-3A30-4FCC-A805-1E1112BBA984",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "826E7284-5A4C-43E3-B507-D3B987075EE6",
+    "height": 65,
+    "width": 65,
+    "x": 27,
+    "y": 21
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_Icons / 11 Play",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2E3EA095-4014-456B-935C-E3C9D6FEE068",
+      "overrideName": "488BDF50-A488-4D99-BE7A-A59A4E0EA97B_layerStyle",
+      "value": "C56DE809-A05D-4CC4-A1F5-F44D08357490"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0227420A-6E0B-421B-919D-B02F5C25DD60",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "826E188B-25D3-416E-8874-FA9AC8FD11DE",
+  "verticalSpacing": 0
+}

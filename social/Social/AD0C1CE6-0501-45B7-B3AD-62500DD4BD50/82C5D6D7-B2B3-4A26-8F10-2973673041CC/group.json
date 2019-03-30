@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "82C5D6D7-B2B3-4A26-8F10-2973673041CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "17ABF6DB-3FD5-4C2C-9555-6341B18A3F0C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "79E0D995-F11E-4F63-BE74-CDE740D2BFA1",
+    "height": 44,
+    "width": 315,
+    "x": 30,
+    "y": 548
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "C61F5A54-00B4-4BA6-8372-1DC810043F26"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "E04FF506-B082-419E-B322-DED1A56B40F6"
+    },
+    {
+      "class": "text",
+      "id": "A65F5662-C838-4087-A009-3F6267D0591C"
+    }
+  ],
+  "name": "Button_login Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9C904379-B0C8-46B5-9C75-96712291AD4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

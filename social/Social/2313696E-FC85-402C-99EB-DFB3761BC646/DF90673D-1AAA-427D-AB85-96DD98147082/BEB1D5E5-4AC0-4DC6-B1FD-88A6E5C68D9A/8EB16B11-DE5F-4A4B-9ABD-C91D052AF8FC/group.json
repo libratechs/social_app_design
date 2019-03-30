@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8EB16B11-DE5F-4A4B-9ABD-C91D052AF8FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "92366E71-2ADD-4EBC-8528-764FE478CC21",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "D458066A-8989-43C5-9DA2-75F7B93D4883",
+    "height": 40,
+    "width": 40,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "8550A6B5-D011-4D14-8AB8-B7E1DE1EFD91"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "oval",
+      "id": "F7F9F513-45E6-4592-922D-958ED14B3AC7"
+    },
+    {
+      "class": "oval",
+      "id": "0E6B0E67-402D-43F6-9ED3-6BCF0E5FBD99"
+    }
+  ],
+  "name": "Userpic",
+  "nameIsFixed": true,
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "78B2F853-215C-47F0-A1F2-BAB8B6E3D5D6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

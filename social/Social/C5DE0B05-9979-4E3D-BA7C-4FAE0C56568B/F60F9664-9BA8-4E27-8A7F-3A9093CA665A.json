@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "F60F9664-9BA8-4E27-8A7F-3A9093CA665A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D45C6EEF-7E49-4D94-B295-E6DAE7051757",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C1659AC2-A38A-4B7D-A6C1-C76ADD544661",
+    "height": 34,
+    "width": 375,
+    "x": 0,
+    "y": 778
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bars / Home Indicator / Black",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D0D1FFFC-4424-4F85-9303-AB8A3633A294",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "158AAAAF-9A74-486A-93A9-C1B1F6A9183C",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2A84C3D9-C419-401A-9B3E-4B43A7560612",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D1F424AA-89BD-4880-8CBA-9F4B42166E6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "594C48EF-B6BB-4E0C-BDB6-A29DB149DFB2",
+    "height": 44,
+    "width": 110,
+    "x": 251,
+    "y": 583
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Controls Small / Switch / On",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "951B9BF4-BF9A-4FE0-971F-9B4517DA0E26",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2702FB32-DFA8-48CC-8D2A-B663AB89DD0B",
+  "verticalSpacing": 0
+}

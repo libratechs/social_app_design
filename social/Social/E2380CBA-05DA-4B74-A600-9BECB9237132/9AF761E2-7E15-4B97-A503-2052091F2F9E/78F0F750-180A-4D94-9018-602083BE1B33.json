@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "78F0F750-180A-4D94-9018-602083BE1B33",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "89D42244-E5EE-4A3B-9C4A-D7ABADC41D0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DA919882-4E65-4680-B344-FC9606F1949A",
+    "height": 28,
+    "width": 28,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_Icons / Close Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "02CB2FCE-A6F9-4CC6-A136-61D2D1A582A9",
+      "overrideName": "06DEF6B5-0B31-4586-890E-CECFF4FBCD6C_layerStyle",
+      "value": "C56DE809-A05D-4CC4-A1F5-F44D08357490"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4A4E56AB-41CF-410F-BAE5-4EF98FA38E09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BDD32497-7ABC-4DB3-A920-824FBCBFA72D",
+  "verticalSpacing": 0
+}

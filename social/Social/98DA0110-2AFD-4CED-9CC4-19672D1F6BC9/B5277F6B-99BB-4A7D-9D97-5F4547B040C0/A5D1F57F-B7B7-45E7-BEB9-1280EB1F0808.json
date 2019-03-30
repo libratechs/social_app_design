@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A5D1F57F-B7B7-45E7-BEB9-1280EB1F0808",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3B7BAC5-725B-4E24-AB69-550CD2F2AF91",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A66930FD-7E22-41AD-A340-2E9DF1101A9D",
+    "height": 2,
+    "width": 345,
+    "x": 30,
+    "y": 331
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": " Divider / 16pt 16pt Copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7E26D99-4E8C-4960-8320-6EC5FAE29BF6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C499128B-FC40-4E36-B12B-30807F650FF2",
+  "verticalSpacing": 0
+}

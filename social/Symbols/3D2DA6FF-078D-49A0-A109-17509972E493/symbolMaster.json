@@ -62,7 +62,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F38C3F14-2204-40FE-9931-A5FEA825AC00_image"
+      "overrideName": "F38C3F14-2204-40FE-9931-A5FEA825AC00_layerStyle"
     },
     {
       "_class": "MSImmutableOverrideProperty",
@@ -87,7 +87,7 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "F38C3F14-2204-40FE-9931-A5FEA825AC00_layerStyle"
+      "overrideName": "F38C3F14-2204-40FE-9931-A5FEA825AC00_image"
     }
   ],
   "resizesContent": true,

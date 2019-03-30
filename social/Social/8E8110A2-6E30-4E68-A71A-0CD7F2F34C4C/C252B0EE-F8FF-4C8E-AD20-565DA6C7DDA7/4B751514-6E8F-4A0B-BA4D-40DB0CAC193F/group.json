@@ -1,0 +1,85 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "4B751514-6E8F-4A0B-BA4D-40DB0CAC193F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "31C2CAF4-9E14-4ABB-BEA0-EE713D8C6D6A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3321ACF5-B485-4A57-B457-EAEDE5DD86AB",
+    "height": 54,
+    "width": 375,
+    "x": 0,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DD5FECA0-0312-4803-BA8E-A55D0D96FA5D"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C0BB28D4-4C91-4D26-9BF9-BB853E5852F5"
+    },
+    {
+      "class": "text",
+      "id": "75DC0149-1FAD-4C8A-9061-4A2BA44BB789"
+    },
+    {
+      "class": "text",
+      "id": "B25F3837-722A-4399-BA0E-0BBB2E53E660"
+    },
+    {
+      "class": "text",
+      "id": "C1311FFD-A74A-4123-954F-07D05EC76D9E"
+    },
+    {
+      "class": "text",
+      "id": "53DE1AEA-A36B-4272-9254-D227385387BC"
+    },
+    {
+      "class": "text",
+      "id": "414ACDA9-9A4A-46F9-B649-51A4E2BE20D2"
+    },
+    {
+      "class": "group",
+      "id": "0E7E8982-1F47-41CD-930D-8BA5716CDAC0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23C1D16D-7AA6-408F-BCDC-84426A0396F2"
+    }
+  ],
+  "name": "title bar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E69602E6-8320-49F0-9E9A-B2875342D8CF",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

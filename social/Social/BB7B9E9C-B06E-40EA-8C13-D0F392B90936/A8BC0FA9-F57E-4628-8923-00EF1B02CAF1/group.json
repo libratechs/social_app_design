@@ -1,0 +1,114 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8BC0FA9-F57E-4628-8923-00EF1B02CAF1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F9DC4871-E82E-49BF-8F8B-A5480ADEFE0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7DBAD069-A521-419A-9315-F765C43B1557",
+    "height": 731,
+    "width": 369,
+    "x": 16,
+    "y": 47
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "DC2B7D89-4D0C-4F0B-8208-64C496B51912"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A97DB628-4FA3-4131-8846-6C2F9AD81D13"
+    },
+    {
+      "class": "group",
+      "id": "8018E291-3A7D-46E2-8C65-D57AA7F03403"
+    },
+    {
+      "class": "group",
+      "id": "15416F80-772E-4389-9978-E66C18CF3CA3"
+    },
+    {
+      "class": "oval",
+      "id": "9531CD7D-C787-44F3-80A7-3539E1C8090B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6282DB98-1E4F-465C-ADD6-5AC9B67D4363"
+    },
+    {
+      "class": "text",
+      "id": "FE837718-599B-4485-B6CB-12C3A0E73CAE"
+    },
+    {
+      "class": "group",
+      "id": "30C54EC2-D696-41C6-834B-64ECFEFD00C2"
+    },
+    {
+      "class": "group",
+      "id": "7B896EB5-ABD8-4A07-934E-99196EE2C638"
+    }
+  ],
+  "name": "Contents",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "729FC135-E869-443D-9A5B-5842823493AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "do_objectID": "A00B39BF-A53A-48B3-AB3E-415955D4C8C9",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "Avenir-Medium",
+            "size": 15
+          }
+        },
+        "kerning": -0.24,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 20,
+          "minimumLineHeight": 20
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  }
+}

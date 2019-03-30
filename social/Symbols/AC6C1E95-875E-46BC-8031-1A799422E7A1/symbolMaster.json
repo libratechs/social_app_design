@@ -62,12 +62,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CF1FC535-8471-40F0-9B60-7169EB92AA67_layerStyle"
+      "overrideName": "CF1FC535-8471-40F0-9B60-7169EB92AA67_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "CF1FC535-8471-40F0-9B60-7169EB92AA67_image"
+      "overrideName": "CF1FC535-8471-40F0-9B60-7169EB92AA67_layerStyle"
     }
   ],
   "resizesContent": false,

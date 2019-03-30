@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2945AADC-D2CB-400F-AF72-19267C8F9FD1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "25584A88-95B3-4771-82D9-B9BD1CE709B4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D57553E0-8AB9-44C9-A4F7-1A0794FC3E28",
+    "height": 179,
+    "width": 135,
+    "x": 155,
+    "y": 0
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "48C494E8-93E3-49D6-946B-E3D4786F1C7F"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EC9B478E-496E-44BD-9DF4-5DA558B917DA"
+    },
+    {
+      "class": "rectangle",
+      "id": "C5B84882-19DE-44C0-9549-9604858ABC2A"
+    }
+  ],
+  "name": "Photo 2",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E4B1429F-7CD5-42CD-8193-062805AC3EB3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

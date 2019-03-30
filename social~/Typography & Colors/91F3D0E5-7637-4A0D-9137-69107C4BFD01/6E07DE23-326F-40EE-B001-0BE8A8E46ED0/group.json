@@ -1,0 +1,108 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E07DE23-326F-40EE-B001-0BE8A8E46ED0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B9A09CA2-499E-45F3-AFC9-A6D6BFB84DE3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F32AECCF-8A1F-41AA-BB98-396EA6B5DFC3",
+    "height": 1100,
+    "width": 140,
+    "x": 1135,
+    "y": 262
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout"
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6ABBA6B3-C7DC-430B-AC2B-E351FBD79531"
+    },
+    {
+      "class": "rectangle",
+      "id": "5C0C20A2-88CE-4815-9149-AEA401199914"
+    },
+    {
+      "class": "rectangle",
+      "id": "71119C2A-1D06-4DAE-A897-8B1668FCFB4E"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE059816-9DD7-4B46-B371-DD40C8E919AE"
+    },
+    {
+      "class": "rectangle",
+      "id": "9187D5A9-7F0A-4126-B663-9E12BE210FF5"
+    },
+    {
+      "class": "rectangle",
+      "id": "C980C1FF-07B3-4EF4-A838-0F20CC6BADB6"
+    },
+    {
+      "class": "rectangle",
+      "id": "D6EB3E99-8D9A-4CBF-9A54-E9152519D003"
+    },
+    {
+      "class": "text",
+      "id": "6F6D334B-CA60-47C7-81F6-2265D209EE87"
+    },
+    {
+      "class": "text",
+      "id": "A8A73477-351E-4AC7-B82D-81C80B60F9F8"
+    },
+    {
+      "class": "text",
+      "id": "B60A27D7-B120-4575-8FCE-F1BE49AAF2E4"
+    },
+    {
+      "class": "text",
+      "id": "B12AF1E2-E475-4634-B952-533B2983755E"
+    },
+    {
+      "class": "text",
+      "id": "8A23A238-AAAD-4A13-8109-914505701B0A"
+    },
+    {
+      "class": "text",
+      "id": "2313B9CC-E1EB-4222-B999-0514939167F4"
+    },
+    {
+      "class": "text",
+      "id": "B798C8AC-6414-4750-A4E4-B2B1559227AE"
+    }
+  ],
+  "name": "Scrims",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F4F6D9A9-C2DE-4262-A8B0-AC5F2DF84DC5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2F732C2E-97B2-4630-AA30-94A27BC7290F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "962DA03E-2A27-4B1E-9AC5-96541AB342D7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "537280B6-3F59-45DC-9F8B-7A230458BB90",
+    "height": 28,
+    "width": 28,
+    "x": 334,
+    "y": 13
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_Icons / Plane",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "27130483-C6EA-4604-8B27-4DD9AC4DC829",
+      "overrideName": "854AA53F-8A74-4E3D-8BF3-DB4847B202E5_layerStyle",
+      "value": "3B6AE14D-6C80-4785-8AB0-E3427CFC09CD"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E83058A-12EE-4643-8E9D-26FD5511E252",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A1D3E774-E451-404D-81EB-CE1BECC82782",
+  "verticalSpacing": 0
+}

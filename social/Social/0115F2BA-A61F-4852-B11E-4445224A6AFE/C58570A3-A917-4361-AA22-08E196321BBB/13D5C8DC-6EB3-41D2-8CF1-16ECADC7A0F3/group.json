@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "13D5C8DC-6EB3-41D2-8CF1-16ECADC7A0F3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34EA7A82-FF4A-4CDB-BA5D-D709B6D1A3A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3E4CBBB0-1DFB-4C5F-9B02-3AD8952E9F90",
+    "height": 1,
+    "width": 298,
+    "x": 63,
+    "y": 64
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "D71C762E-E7FA-45EC-9734-1783FA22B142"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A7A3A4DC-3C4C-434A-9F86-E5CAE879C9C8"
+    }
+  ],
+  "name": "🎨 Stroke color",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42B206CD-AECB-43E4-B2EF-A5AD6D8DE24A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

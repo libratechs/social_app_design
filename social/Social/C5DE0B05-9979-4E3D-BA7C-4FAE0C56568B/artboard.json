@@ -1,0 +1,168 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3E6A6EE4-8550-4E27-9FB3-75EBF3CE086F",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C5DE0B05-9979-4E3D-BA7C-4FAE0C56568B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "71AC3660-4AFE-44D8-92F4-74E2B2295CEA",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2B01E1F6-9606-45FA-914D-A3D520846459",
+    "height": 812,
+    "width": 375,
+    "x": -663,
+    "y": -406
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "198121B8-7615-46BF-A23F-766DF23F818F"
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7437200B-94E3-47E9-A51B-87C2BF6B4416",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "57BACE83-492D-48F2-87EE-D1017C01A172"
+    },
+    {
+      "class": "rectangle",
+      "id": "129F1B16-A4C5-4ED3-BD88-F4103B9D509C"
+    },
+    {
+      "class": "rectangle",
+      "id": "D25156C5-3324-453A-AE42-95091FD3FFD8"
+    },
+    {
+      "class": "rectangle",
+      "id": "7B6E68C0-0327-410C-A225-592C98C592E1"
+    },
+    {
+      "class": "text",
+      "id": "612FFEB8-BDB3-4B03-B385-AFF730275673"
+    },
+    {
+      "class": "text",
+      "id": "D9CAF1E8-B103-466D-8445-04BFAEA17488"
+    },
+    {
+      "class": "text",
+      "id": "EC9C9692-ABDF-4D17-A025-C77E65A9EAD0"
+    },
+    {
+      "class": "text",
+      "id": "8249D435-E579-4125-B998-4D29E71CF478"
+    },
+    {
+      "class": "group",
+      "id": "E9FCD4AD-7356-4CBC-9FD9-EE8E5110CCEA"
+    },
+    {
+      "class": "text",
+      "id": "1D1F7AAB-23D1-4A33-AEB6-4CA3EDDAE8B0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ABD799F6-9770-4CAD-AFBD-41D59A9010BD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0090A110-EEA6-45EF-896D-5ACDFECDE600"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4F553C93-BE6F-420F-A1B8-CE785CCFC9C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F60F9664-9BA8-4E27-8A7F-3A9093CA665A"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 30,
+    "do_objectID": "3751B781-1CEC-4452-B451-AA560DF241C7",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": false,
+    "horizontalOffset": 15,
+    "isEnabled": false,
+    "numberOfColumns": 10,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 345
+  },
+  "name": "2_Login",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "77E16BAC-3618-4DBB-860E-B738560E089C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "20DB743C-54B9-40CD-9B3E-20943CEB04AE",
+    "guides": [
+    ]
+  }
+}

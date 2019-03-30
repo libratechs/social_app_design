@@ -62,12 +62,12 @@
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "725DC5EE-D704-4619-A158-BDABAA7243DE_layerStyle"
+      "overrideName": "725DC5EE-D704-4619-A158-BDABAA7243DE_image"
     },
     {
       "_class": "MSImmutableOverrideProperty",
       "canOverride": true,
-      "overrideName": "725DC5EE-D704-4619-A158-BDABAA7243DE_image"
+      "overrideName": "725DC5EE-D704-4619-A158-BDABAA7243DE_layerStyle"
     }
   ],
   "resizesContent": false,

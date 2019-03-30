@@ -1,0 +1,178 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "380A8F1B-E3FC-40C9-8EAB-FF711D0A759B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD0C1CE6-0501-45B7-B3AD-62500DD4BD50",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81E06128-F669-4A1D-ACFD-801E0EFA1469",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "jpg",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 3,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56011FFB-E936-4F9F-BF51-7F5172DEBAAA",
+    "height": 812,
+    "width": 375,
+    "x": -1138,
+    "y": -406
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "B67C29DB-0070-4CE6-93A1-D2C5A2080222"
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4F2BCE27-D824-4D10-8849-6FF3E53F462F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "EEF3A7DD-DE01-404C-95A1-9B0B2DB0F5F5"
+    },
+    {
+      "class": "rectangle",
+      "id": "862EB630-1169-4C39-81C6-715D33A8220C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1BA733FD-60D5-4118-AC3A-A2593D2093B7"
+    },
+    {
+      "class": "group",
+      "id": "F709DA44-C684-470F-925A-C6834CDE63B7"
+    },
+    {
+      "class": "group",
+      "id": "82C5D6D7-B2B3-4A26-8F10-2973673041CC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "537BE68C-D46C-456D-83F1-D2DE1ADCAA17"
+    },
+    {
+      "class": "text",
+      "id": "966962F2-6290-42E9-B9C1-263EB8C3B89F"
+    },
+    {
+      "class": "text",
+      "id": "9DDACA3F-C2E7-4C3D-82FF-D174009D335D"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 30,
+    "do_objectID": "E38924FE-CB83-4FAD-9D4E-840EA43538FF",
+    "drawHorizontal": false,
+    "drawHorizontalLines": false,
+    "drawVertical": true,
+    "gutterHeight": 12,
+    "gutterWidth": 5,
+    "guttersOutside": false,
+    "horizontalOffset": 15,
+    "isEnabled": false,
+    "numberOfColumns": 10,
+    "rowHeightMultiplication": 5,
+    "totalWidth": 345
+  },
+  "name": "1_Welcome",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 812,
+    "name": "iPhone XS",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E62927FD-28E2-4440-BFB7-AA02B3321B2E",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.847,
+          "green": 0.847,
+          "red": 0.847
+        },
+        "fillType": 4,
+        "image": {
+          "_class": "MSJSONFileReference",
+          "_ref": "images/c9e7672605c964231af3969afb60abdd89dff38a.png",
+          "_ref_class": "MSImageData"
+        },
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "userInfo": {
+    "com.invisionlabs.duplicate": {
+      "photos-duplicate": {
+        "folder": "/Users/Dropbox/Dropbox/Hoangpts/Material/Photos/Unsplash/Woman",
+        "icon": "diamond",
+        "index": 5,
+        "mode": "local",
+        "title": "Woman"
+      }
+    }
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B0CF4C68-DEE8-484F-A8E3-1F1745C0366E",
+    "guides": [
+    ]
+  }
+}

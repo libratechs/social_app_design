@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "38D467B2-9A3A-43B1-B843-C8782B16797B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4349DB2D-2C75-4C47-A232-9A711F340811",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "67FB02EE-12A6-49A1-A1FC-41A8F6DC0870",
+    "height": 36,
+    "width": 123,
+    "x": 0,
+    "y": 150
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "21CAC8F8-BB32-42F2-BB88-B266A7B014AB"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B2F452A3-D479-419D-8487-DA8DCFAE1AAF"
+    },
+    {
+      "class": "text",
+      "id": "0BBCE958-B1E8-419E-9B96-C09B10A88570"
+    }
+  ],
+  "name": "Avatar",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "49BAC375-E993-4A86-918D-80A94E14A362",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

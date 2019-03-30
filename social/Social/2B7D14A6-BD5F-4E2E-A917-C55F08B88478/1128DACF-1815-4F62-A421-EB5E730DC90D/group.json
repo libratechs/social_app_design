@@ -1,0 +1,105 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1128DACF-1815-4F62-A421-EB5E730DC90D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB301D65-3B3F-48F0-B7AD-51CF28E0236B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA901A5F-8847-417C-ABEC-D1CCA466230F",
+    "height": 202,
+    "width": 345,
+    "x": 15,
+    "y": 258
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "52A54D63-2D63-4A71-AB67-53305C7D870C"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "730CB890-03D9-4FFA-9C18-AEBA2BF1EAB1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FB53FF4E-3181-4FC1-AB38-530C14E70046"
+    },
+    {
+      "class": "text",
+      "id": "589E929C-3D02-454D-88B2-0410D2765729"
+    },
+    {
+      "class": "text",
+      "id": "4A140BE1-FA03-4137-B237-36FB4D02354E"
+    },
+    {
+      "class": "text",
+      "id": "7516D712-8B48-45FE-A190-59130D607E7F"
+    },
+    {
+      "class": "text",
+      "id": "61B95421-4D19-4D67-9881-0E178C07F65E"
+    },
+    {
+      "class": "text",
+      "id": "A93040DA-9FFB-44E8-BBD4-781B68AEEEE6"
+    },
+    {
+      "class": "oval",
+      "id": "4DD51CF8-38CC-44CF-9D8B-3BABCAB2E89E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBA1B55B-B451-4875-B2F6-CB3C97CDBD8B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "35DE56D5-7943-4B7B-A46D-B23D7C720DD7"
+    },
+    {
+      "class": "oval",
+      "id": "6519FF56-9C28-4D5D-94EA-2A611FF3B585"
+    },
+    {
+      "class": "oval",
+      "id": "4EBDA48E-F199-4AC0-84FD-F630C5911915"
+    },
+    {
+      "class": "oval",
+      "id": "03124852-6373-4B71-B287-7FBC3C7B88DF"
+    }
+  ],
+  "name": "Post 01",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4BEB324-C637-4E0E-8CDF-CE593C7742AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

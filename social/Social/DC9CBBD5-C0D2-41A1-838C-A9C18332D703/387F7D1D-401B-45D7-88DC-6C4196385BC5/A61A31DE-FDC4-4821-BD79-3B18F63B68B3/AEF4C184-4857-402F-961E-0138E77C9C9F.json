@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "AEF4C184-4857-402F-961E-0138E77C9C9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0498E03-7C95-4202-85B2-A78D1E0D9CE2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "08EE5217-407E-4D1C-B2F3-0D3A426288A8",
+    "height": 16,
+    "width": 16,
+    "x": 5,
+    "y": 1
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "_Icons / 17 Video",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F6138B4C-C138-4ECC-9480-E5C18F5C9BB1",
+      "overrideName": "2F3E888A-BD1B-4755-9722-B2B0D33A7C66_layerStyle",
+      "value": "C56DE809-A05D-4CC4-A1F5-F44D08357490"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FB7C4762-8646-4596-A315-61DAA13AA0D3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85EDC781-6DE3-48BC-8DA7-87D54ACCBDC9",
+  "verticalSpacing": 0
+}

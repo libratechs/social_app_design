@@ -1,0 +1,89 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1EA5F51-A37E-4965-8234-B0E63903CF8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E956B041-74A3-40E9-A38D-2016D49ACF3B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9A451555-A787-461F-AF0A-D2761F9B7B4C",
+    "height": 425,
+    "width": 345,
+    "x": 15,
+    "y": 278
+  },
+  "groupLayout": {
+    "_class": "MSImmutableFreeformGroupLayout",
+    "do_objectID": "0C627402-E8B0-45F5-9156-BA1221F43AE8"
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A3EEFD3B-C440-4336-9EA3-FC867C2AC011"
+    },
+    {
+      "class": "text",
+      "id": "B20EA32F-8699-4286-A929-0851376DCAE5"
+    },
+    {
+      "class": "text",
+      "id": "368A9A75-2B04-4FC3-8E9B-21E10294861B"
+    },
+    {
+      "class": "rectangle",
+      "id": "C5F5CBE3-4A29-4518-944B-2629F6A5A6D4"
+    },
+    {
+      "class": "rectangle",
+      "id": "04C638D9-0ABC-4A85-8D63-1E53492A14B0"
+    },
+    {
+      "class": "group",
+      "id": "882456B0-D25A-4DB0-AD71-750060613AB2"
+    },
+    {
+      "class": "text",
+      "id": "8A55B5F6-590E-4FDE-A6D9-AADCAD563134"
+    },
+    {
+      "class": "text",
+      "id": "281ECAF8-D093-4F52-93C2-616DA8A5432B"
+    },
+    {
+      "class": "oval",
+      "id": "EC203B0C-D163-4181-BF4A-2AEA044453EC"
+    }
+  ],
+  "name": "Post 02",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "22001AB6-9DE4-4912-AB1C-FF1C2D305419",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
