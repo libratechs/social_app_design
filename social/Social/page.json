@@ -202,6 +202,26 @@
     {
       "class": "artboard",
       "id": "0D8FDE88-AC26-4C19-B2AB-52B49C6AB6FA"
+    },
+    {
+      "class": "rectangle",
+      "id": "CCAA6DF5-20A3-4D04-A941-B5F5FC769585"
+    },
+    {
+      "class": "text",
+      "id": "3E5830E9-6706-41AD-965F-F671DC86554E"
+    },
+    {
+      "class": "artboard",
+      "id": "601824FC-FA7A-42FA-9B36-C3AFF56043C0"
+    },
+    {
+      "class": "artboard",
+      "id": "7649D2FA-616B-4EF1-833D-536EA89488ED"
+    },
+    {
+      "class": "artboard",
+      "id": "4CFC56BD-4B5A-42B9-9D02-0AD2887ADA9D"
     }
   ],
   "name": "Social",
